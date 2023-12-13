@@ -105,3 +105,6 @@ help while
 ./countdown.sh 5
 ./countdown.sh 5
 touch bingo.sh
+chmod +x questinnaire.sh
+chmod +x ./questinnaire.sh
+chmod +x ./bingo.sh
