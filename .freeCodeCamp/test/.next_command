@@ -222,3 +222,4 @@ echo $VAR
 [[ test? =~ \?$ ]]
 ./fortune lol
 ./fortune.sh lol
+help function
