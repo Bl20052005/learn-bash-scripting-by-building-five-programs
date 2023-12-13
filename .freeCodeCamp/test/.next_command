@@ -193,3 +193,6 @@ declare -p
 declare -p ARR
 help declare
 ./fortune.sh
+./bingdo.sh
+./bingo.sh
+$ ./bingo.sh
