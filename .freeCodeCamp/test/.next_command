@@ -197,3 +197,4 @@ help declare
 ./bingo.sh
 $ ./bingo.sh
 help
+help function
