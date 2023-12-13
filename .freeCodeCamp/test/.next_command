@@ -225,3 +225,4 @@ echo $VAR
 help function
 ./fortune.sh hello
 ./fortune.sh
+./fortune.sh
