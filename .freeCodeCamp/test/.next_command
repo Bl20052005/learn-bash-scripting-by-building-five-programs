@@ -41,3 +41,5 @@ echo $QUESTION1
 echo --help
 man echo
 man echo
+./questionnaire
+./questionnaire.sh
