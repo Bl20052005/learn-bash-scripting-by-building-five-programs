@@ -43,3 +43,4 @@ man echo
 man echo
 ./questionnaire
 ./questionnaire.sh
+./questionnaire.sh
