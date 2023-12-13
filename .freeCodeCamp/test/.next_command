@@ -198,3 +198,4 @@ help declare
 $ ./bingo.sh
 help
 help function
+./fortune.sh
