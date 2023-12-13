@@ -220,3 +220,5 @@ echo $VAR
 [[ $VAR == "\?$" ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+./fortune lol
+./fortune.sh lol
