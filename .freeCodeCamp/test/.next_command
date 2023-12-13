@@ -99,3 +99,5 @@ man sleep
 sleep 3
 ./countdown.sh 3
 ./countdown.sh 3
+./countdown 1
+./countdown.sh 1
