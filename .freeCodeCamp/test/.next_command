@@ -33,3 +33,5 @@ ls --color=auto -l
 ./questionnaire.sh
 echo
 echo $QUESTION1
+./questionnaire
+./questionnaire.sh
