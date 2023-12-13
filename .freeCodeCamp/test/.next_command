@@ -109,3 +109,4 @@ chmod +x questinnaire.sh
 chmod +x ./questinnaire.sh
 chmod +x ./bingo.sh
 ./bingo.sh
+printenv
